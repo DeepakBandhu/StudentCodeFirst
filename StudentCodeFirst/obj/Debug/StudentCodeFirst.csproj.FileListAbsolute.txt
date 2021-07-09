@@ -1,0 +1,11 @@
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.exe.config
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.exe
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.pdb
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CopyComplete
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.exe
+C:\Users\Deepak\Desktop\Basic_C#_Programs\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.pdb
